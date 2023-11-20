@@ -6,7 +6,7 @@
   <link href="https://www.liugiegie.xyz/atom.xml" rel="self"/>
   
   <link href="https://www.liugiegie.xyz/"/>
-  <updated>2022-10-23T14:00:00.000Z</updated>
+  <updated>2023-10-29T14:00:00.000Z</updated>
   <id>https://www.liugiegie.xyz/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Waline评论的使用及实现</title>
+    <link href="https://www.liugiegie.xyz/posts/2023454d.html"/>
+    <id>https://www.liugiegie.xyz/posts/2023454d.html</id>
+    <published>2023-10-29T10:19:03.000Z</published>
+    <updated>2023-10-29T14:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1>1.Waline的官方入门文档</h1><div class="note info flat"><p>参考：<a href="https://waline.js.org/guide/get-started/">🥧🥧🥧Waline快速入门🥧🥧🥧</a></p></div>]]></content>
+    
+    
+    <summary type="html">🥧本文内容包括Waline的使用和入门</summary>
+    
+    
+    
+    <category term="演示" scheme="https://www.liugiegie.xyz/categories/%E6%BC%94%E7%A4%BA/"/>
+    
+    
+    <category term="Waline" scheme="https://www.liugiegie.xyz/tags/Waline/"/>
+    
+    <category term="评论" scheme="https://www.liugiegie.xyz/tags/%E8%AF%84%E8%AE%BA/"/>
+    
+  </entry>
   
   <entry>
     <title>Markdown语法与外挂标签写法汇总</title>

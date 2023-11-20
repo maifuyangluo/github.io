@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>Waline评论的使用及实现</title>
+      <link href="/posts/2023454d.html"/>
+      <url>/posts/2023454d.html</url>
+      
+        <content type="html"><![CDATA[<h1>1.Waline的官方入门文档</h1><div class="note info flat"><p>参考：<a href="https://waline.js.org/guide/get-started/">🥧🥧🥧Waline快速入门🥧🥧🥧</a></p></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 演示 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Waline </tag>
+            
+            <tag> 评论 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Markdown语法与外挂标签写法汇总</title>
       <link href="/posts/2013454d.html"/>
       <url>/posts/2013454d.html</url>
